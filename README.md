@@ -1,7 +1,7 @@
-# MMDVMHost_IP_TMP_BigFont
-MMDVMHost with IP address And  CPU temperature ,BigFont, first version by BG5UER ,for OH1E requirement
+# MMDVMHost_IP_TMP_BigFont  
+MMDVMHost with IP address And  CPU temperature ,BigFont, first version by BG5UER ,for OH1E requirement   
 
-for NanoPi NEO or RPi
+for NanoPi NEO or RPi   
 
 Compile mothord see OLED.md, MMDVMHost version base on 3.4.6_2017-12-24  
 https://github.com/juribeparada/MMDVMHost  
@@ -17,8 +17,8 @@ Demo Video
 
 more see also https://github.com/nano-mmdvm/MMDVMHost_IP_TMP_BigFont/raw/master/README_BG5UER.md  
 
-# Discuss in 
-https://www.facebook.com/groups/nano.mmdvm/permalink/1778018282228812/
+# Discuss in  
+https://www.facebook.com/groups/nano.mmdvm/permalink/1778018282228812/  
 My BLOG https://mmdvm.bi7jta.org/  
 
 de bi7jta,73!  
